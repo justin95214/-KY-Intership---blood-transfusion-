@@ -1,6 +1,8 @@
 # [KY-Intership] --blood-transfusion
 
 ### 1차 MIMIC 데이터(환자) 데이터 전처리
+  - CITI program 교육 이수를 해야함
+  
 
 #### 1. 수혈정보 바탕으로 필터링하기
   - procedure_icd에서 수혈받은 환자
