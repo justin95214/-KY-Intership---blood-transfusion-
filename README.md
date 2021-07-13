@@ -23,4 +23,5 @@
 
   - 새로운 Time Series로 수혈을 받은 Start time과 End Time이 중요하며, 환자에 따른 수혈뿐만 아니라 진료시간, 약물 투여시간 등 데이터 csv별로 Sequential 기준이 다 다르기 때문에, 입원인 Admission time을 기준으로 차이만큼 나타냄으로써, 각 환자들의 Time Series를 하나로 통합할 수 있음
   
+  - 환자에 관련된 MIMIC 데이터를 가지고, 환자의 HADM ID기준으로 CPT, InputEvent_CV, LabEvents, Prescription데이터를 통해 진단, 검사, 약물 투여 관련된 데이터를 input 데이터로 설정하여, 첫번째로 수혈의 필요 판단 유무에 대한 이진분류를 하자고 결정함 차후에 수혈의 양까지 넣을 예정
 
