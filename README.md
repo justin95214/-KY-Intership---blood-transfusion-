@@ -1,5 +1,8 @@
 # [KY-Intership] --blood-transfusion
 
+## 연구 프로젝트 진행사항 간트차트
+https://docs.google.com/file/d/1KyRgrCBmnFdZYwUI4wpR_wli8Pd6_wvS/edit?usp=docslist_api&filetype=msexcel
+
 ### 1차 MIMIC 데이터(환자) 데이터 전처리
   - CITI program 교육 이수를 해야함
   https://github.com/justin95214/-KY-Intership---blood-transfusion-/blob/main/citiCompletionReport10271106.pdf
